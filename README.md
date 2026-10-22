@@ -1,2 +1,3 @@
-# Prueba
-Es mi primera prueba con Github
+# Prueba1
+Mi segundo repositorio
+de la semana
